@@ -9,6 +9,7 @@
 </head>
 <body>
     <h1> Hola mundo </h1>
+    <h2> Otra cosa </h2>
     
 </body>
 </html>
